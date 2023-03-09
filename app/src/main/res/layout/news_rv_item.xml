@@ -20,7 +20,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/idRVNewsHeading"
+            android:id="@+id/idTVNewsHeading"
             android:layout_below="@id/idIVNews"
             android:textColor="@color/tcolor"
             android:text="News Heading"
@@ -34,7 +34,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Sub heading"
-            android:layout_below="@id/idRVNewsHeading"
+            android:layout_below="@id/idTVNewsHeading"
             android:textColor="@color/white"
             android:maxLines="3"
             android:layout_margin="3dp"
